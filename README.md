@@ -1,7 +1,7 @@
 ## **Netty Echo Server/Client**
 ### **Spring Boot and Netty**
 
-* Follow the steps below to test this application (for Windows):
+* Follow the steps below to test this application where only NettyServer is activated
 1. Install a remote network tool such as MobaXterm (Recommended)
    * https://mobaxterm.mobatek.net/download.html
 2. Instead of using MobaXterm, you can enable "Telnet" on Windows then run commands in cmd or powershell
