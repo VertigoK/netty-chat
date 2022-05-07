@@ -1,2 +1,2 @@
-## **Netty Chat - Client &amp; Server**
+## **Netty Chat Client/Server**
 ### **Spring Boot and Netty**
