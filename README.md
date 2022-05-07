@@ -1,4 +1,4 @@
-## **Netty Server/Client**
+## **Netty Echo Server/Client**
 ### **Spring Boot and Netty**
 
 * Follow the steps below to test this application (for Windows):
