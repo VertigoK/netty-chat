@@ -4,7 +4,7 @@
 * Follow the steps below to test this application (for Windows):
 1. Install a remote network tool such as MobaXterm (Recommended)
    * https://mobaxterm.mobatek.net/download.html
-2. Instead of using MobaXterm, you can enable "Telnet" on Windows then run commands in cmd, powershell or terminal
+2. Instead of using MobaXterm, you can enable "Telnet" on Windows then run commands in cmd or powershell
    * https://gearupwindows.com/how-to-install-telnet-on-windows-11/
 3. Run this application in your IDE
 4. Run MobaXterm and click on "Start local terminal"
